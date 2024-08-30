@@ -1,0 +1,23 @@
+div.head {
+    width: 100%;
+
+    display: flex;
+    justify-content: space-between;
+    background-color: aquamarine;
+    margin-top: -10px;
+    margin-left: 9px;
+    text-align: center;
+    margin-right: 40px; 
+}
+
+ul.navlist {
+    display: flex;
+    padding-top: 10px;
+    justify-content: space-around;
+    
+}
+
+li {
+    padding-right: 50px;
+    list-style: none;
+}
